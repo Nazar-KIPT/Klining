@@ -1,0 +1,44 @@
+C:\Users\denis\source\repos\Clean-house\Clean-house\bin\Debug\Clean-house.exe.config
+C:\Users\denis\source\repos\Clean-house\Clean-house\bin\Debug\Clean-house.exe
+C:\Users\denis\source\repos\Clean-house\Clean-house\bin\Debug\Clean-house.pdb
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean-house.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean_house.InfoStart.resources
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean_house.Properties.Resources.resources
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean-house.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean-house.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean-house.exe
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean-house.pdb
+C:\Users\denis\source\repos\Clean-house\Clean-house\obj\Debug\Clean_house.MainForm.resources
+D:\My Drive\NazarK\Clean-house\Clean-house\bin\Debug\Clean-house.exe.config
+D:\My Drive\NazarK\Clean-house\Clean-house\bin\Debug\Clean-house.exe
+D:\My Drive\NazarK\Clean-house\Clean-house\bin\Debug\Clean-house.pdb
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean-house.csprojAssemblyReference.cache
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean_house.InfoStart.resources
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean_house.MainForm.resources
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean_house.Properties.Resources.resources
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean-house.csproj.GenerateResource.cache
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean-house.csproj.CoreCompileInputs.cache
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean-house.exe
+D:\My Drive\NazarK\Clean-house\Clean-house\obj\Debug\Clean-house.pdb
+C:\Users\User\Desktop\Clean-house\Clean-house\bin\Debug\Clean-house.exe.config
+C:\Users\User\Desktop\Clean-house\Clean-house\bin\Debug\Clean-house.exe
+C:\Users\User\Desktop\Clean-house\Clean-house\bin\Debug\Clean-house.pdb
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean-house.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean_house.InfoStart.resources
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean_house.MainForm.resources
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean_house.Properties.Resources.resources
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean-house.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean-house.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean-house.exe
+C:\Users\User\Desktop\Clean-house\Clean-house\obj\Debug\Clean-house.pdb
+C:\Users\User\Desktop\Курсовой проект\Clean-house\bin\Debug\Clean-house.exe.config
+C:\Users\User\Desktop\Курсовой проект\Clean-house\bin\Debug\Clean-house.exe
+C:\Users\User\Desktop\Курсовой проект\Clean-house\bin\Debug\Clean-house.pdb
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean-house.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean_house.InfoStart.resources
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean_house.MainForm.resources
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean_house.Properties.Resources.resources
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean-house.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean-house.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean-house.exe
+C:\Users\User\Desktop\Курсовой проект\Clean-house\obj\Debug\Clean-house.pdb
